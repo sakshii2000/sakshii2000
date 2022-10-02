@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Sakshi!
+Hi there, 👋
+
+[![@sakshii2000's Holopin board](https://holopin.io/api/user/board?user=sakshii2000)](https://holopin.io/@sakshii2000)
+
+- 👋 I’m Sakshi!
 - 👀 I’m interested in learning new web technologies.
 - 🌱 I’m currently pursuing Bachelors of Engineering in Information Technology.
 - 💞️ I’m looking to collaborate on open source projects.
-<!-- - 📫 You can reach me on https://www.linkedin.com/in/sakshi-bhakta-0ba4b81ba/ -->
+- 📫 You can reach me on https://www.linkedin.com/in/sakshi-bhakta-0ba4b81ba/
 
 
 <!---
