@@ -4,9 +4,9 @@ Hi there, 👋
 
 - 👋 I’m Sakshi!
 - 👀 I’m interested in learning new web technologies.
-- 🌱 I’m currently pursuing Bachelors of Engineering in Information Technology.
+- 💡 I’m currently surfing the React wave, feeling like a coding ninja on a caffeine buzz.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 You can reach me on https://www.linkedin.com/in/sakshi-bhakta-0ba4b81ba/
+- 📫 You can reach me on ...(will be updated).
 
 
 <!---
