@@ -2,11 +2,11 @@ Hi there, 👋
 
 [![@sakshii2000's Holopin board](https://holopin.io/api/user/board?user=sakshii2000)](https://holopin.io/@sakshii2000)
 
-- 👋 I’m Sakshi!
-- 👀 I’m interested in learning new web technologies.
-- 💡 I’m currently surfing the React wave, feeling like a coding ninja on a caffeine buzz.
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 You can reach me on ...(will be updated).
+- 👋 I'm Sakshi!
+- 👀 I'm passionate about designing and bringing fresh ideas to life
+- 💡 I specialize in crafting intuitive and engaging user experiences.
+- 💞️ Open to collaborate on innovative open-source projects.
+  <!--- - 📫 You can reach me on ...(will be updated). --->
 
 
 <!---
